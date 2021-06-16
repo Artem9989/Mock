@@ -6,13 +6,5 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Iune1: {
-    "body": "string",
-  },
-  "Iune2: {
-    "body": "string",
-  },
-  "Iune3: {
-    "body": "string",
-  }
+
 }
