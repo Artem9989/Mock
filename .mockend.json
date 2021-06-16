@@ -5,17 +5,6 @@
     8,
     9
   ],   
-  },
-  "Iune1": {
-    "body": "string",
-    "post": "Post"
-  },
-  "Iune2": {
-    "body": "string",
-    "post": "Post"
-  },
-  "Iune3": {
-    "body": "string",
-    "post": "Post"
   }
+ 
 }
