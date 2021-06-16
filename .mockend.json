@@ -1,6 +1,6 @@
 {
   "Post": {
-    "title": "s",
+    "title": [ "Ford", "BMW", "Fiat" ],
     "views": "int",
     "published": "boolean",
     "createdAt": "date",
