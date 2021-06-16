@@ -1,7 +1,7 @@
 {
-  "Post": {
-    "title": [ "Ford", "BMW", "Fiat" ],
-    "views": "int",
+  "Fuel": {
+    "Value": "int",
+    "Time": "string",
     "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
